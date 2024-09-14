@@ -1,0 +1,8 @@
+version: '3'
+services:
+  Team3:
+    image: Team3
+    container_name: Team3_container
+    ports:
+      - "4983:4983"
+              
